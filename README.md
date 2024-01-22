@@ -18,6 +18,7 @@ Estoy constantemente buscando aprender y mejorar mis habilidades. Actualmente, e
 
 ### 📫 ¡Conéctate conmigo!
 
-¡Estoy emocionado por colaborar y aprender junto a la increíble comunidad de GitHub! No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/christian-veliz-a73548264) o [Gmail](chrivel1998@gmail.com) para discutir ideas, proyectos o simplemente charlar sobre tecnología.
-
+¡Estoy emocionado por colaborar y aprender junto a la increíble comunidad de GitHub! No dudes en contactarme a través de LinkedIn o Gmail para discutir ideas, proyectos o simplemente charlar sobre tecnología.
+  ###  LinkedIn: **www.linkedin.com/in/christian-veliz-a73548264**
+  ###  Gmail: **chrivel1998@gmail.com**
 ¡Gracias por visitar mi perfil! 😊
